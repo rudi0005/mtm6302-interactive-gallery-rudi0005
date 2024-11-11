@@ -1,1 +1,2 @@
-# mtm6302-interactive-gallery-rudi0005
+Student Name: Raija Rudiak
+Student Number: 1116632
